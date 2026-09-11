@@ -10,3 +10,6 @@
 > https://medium.com/@amitvsolutions/modern-ai-system-design-and-architecture-f0d48af4b9c0
 
 > https://www.systemdesignhandbook.com/guides/ai-system-design/
+
+
+> https://medium.com/@yaroslavzhbankov/building-an-mcp-server-in-typescript-and-connecting-with-chatgpt-06047bfc41f8
